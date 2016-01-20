@@ -3,9 +3,9 @@ favicon: null
 name: achims
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,18 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 color:
-  brandStrength: 0.8929174
+  brandStrength: 0.0227656
   lightness: 0.1424958
   saturation: 0.2268128
   rhythmicContrast: 0
   brandColors:
-    - '#D6E7FB'
-    - '#0C0B0E'
-    - '#C6BCBE'
-    - '#81776D'
-    - '#5C4B4B'
+    - '#161720'
+    - '#BB9A6F'
+    - '#3A395B'
+    - '#771627'
+    - '#DAE1F0'
 typography_spectrum: 0.6821248
