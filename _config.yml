@@ -1,15 +1,7 @@
-layout_spectrum: 0.1104553
-favicon: null
 name: achims
-purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2099494
+typography_spectrum: 0.6821248
 collections:
   - index:
       navigable: true
@@ -24,17 +16,25 @@ collections:
       path: '/:title/'
 cta:
   domain: null
-  version: null
   bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.0227656
-  saturation: 0.2268128
   brandColors:
     - '#161720'
     - '#BB9A6F'
     - '#3A395B'
     - '#771627'
     - '#DAE1F0'
-  lightness: 0.1424958
-  rhythmicContrast: 0
-typography_spectrum: 0.6821248
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.5
+purpose: []
