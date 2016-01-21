@@ -1,7 +1,19 @@
-name: achims
-favicon: null
-layout_spectrum: 0.07335582
-typography_spectrum: 0.17642
+color:
+  brandStrength: 0.125
+  saturation: 0.8288364
+  brandColors:
+    - '#019201'
+    - '#de0101'
+    - '#90e697'
+    - '#883601'
+    - '#ffebe7'
+  lightness: 0.5
+  rhythmicContrast: 0.5961214
+title: Achim Schulz
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 collections:
   - index:
       navigable: true
@@ -14,28 +26,16 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Achim Schulz
 cta:
-  domain: null
-  bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+  bucket: null
+  domain: null
+favicon: null
+layout_spectrum: 0.07335582
+purpose: []
+name: achims
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#019201'
-    - '#de0101'
-    - '#90e697'
-    - '#883601'
-    - '#ffebe7'
-  brandStrength: 0.125
-  lightness: 0.5
-  saturation: 0.8288364
-  rhythmicContrast: 0.5961214
-purpose: []
+typography_spectrum: 0.17642
