@@ -7,18 +7,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Tenor Achim Schulz was born and raised in Munich (Germany). Having completed studies in Church Music, Organ, Cembalo and Choral Conducting he then went on to st'
-datePublished: '2016-01-21T12:39:16.485Z'
-dateModified: '2016-01-21T12:39:05.426Z'
+datePublished: '2016-01-21T12:48:59.306Z'
+dateModified: '2016-01-21T12:48:45.489Z'
 author: []
-title: ''
+title: 'Achim Schulz, Tenor'
+sourcePath: _posts/2016-01-21-tenor-achim-schulz-was-born-and-raised-in-munich-germany.md
+published: true
 authors: []
 publisher:
   name: ensemblecinquecento.com
   domain: www.ensemblecinquecento.com
   url: null
   favicon: null
-sourcePath: _posts/2016-01-21-tenor-achim-schulz-was-born-and-raised-in-munich-germany.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
