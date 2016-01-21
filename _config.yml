@@ -1,11 +1,11 @@
-layout_spectrum: 0.9283305
+layout_spectrum: 0.8996627
 favicon: null
 name: achims
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -23,9 +23,9 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  version: null
   bucket: null
+  version: null
+  domain: null
 color:
   brandStrength: 0.125
   saturation: 0.8288364
