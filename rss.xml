@@ -4,7 +4,7 @@
         <description><![CDATA[Achim Schulz]]></description>
         <link>https://thegrid.ai/achims/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 23:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 09:03:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/achims/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Achim Schulz, Tenor]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/achims/e91c8450-0b42-4ff1-b1a9-be0eb642eb21/index.html</link>
             <guid isPermaLink="false">e91c8450-0b42-4ff1-b1a9-be0eb642eb21</guid>
             <pubDate>Thu, 21 Jan 2016 12:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/achims/c883ee86-41aa-4446-83ab-c8fbf49b7164/index.html</link>
+            <guid isPermaLink="false">c883ee86-41aa-4446-83ab-c8fbf49b7164</guid>
+            <pubDate>Fri, 22 Jan 2016 09:02:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://soundcloud.com/achim-schulz/o-rex-fridrice-brassart</link>
             <guid isPermaLink="false">07704ab0-da5c-49ed-86f9-b260ea403fa3</guid>
             <pubDate>Thu, 21 Jan 2016 13:33:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1242caa2-ab34-4f14-88d5-fb70b1e6a997.jpg">]]></description>
-            <link>https://thegrid.ai/achims/b22adc4c-952c-4a9a-a368-baf62d28f784/index.html</link>
-            <guid isPermaLink="false">b22adc4c-952c-4a9a-a368-baf62d28f784</guid>
-            <pubDate>Thu, 21 Jan 2016 12:58:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
