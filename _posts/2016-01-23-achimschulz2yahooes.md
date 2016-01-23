@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T12:11:34.328Z'
-dateModified: '2016-01-23T12:11:26.927Z'
+datePublished: '2016-01-23T12:19:15.597Z'
+dateModified: '2016-01-23T12:19:08.134Z'
 title: about achim
 author: []
 sourcePath: _posts/2016-01-23-achimschulz2yahooes.md
