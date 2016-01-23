@@ -24,8 +24,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/achim-schulz/clemens'
 title: clemens by smihca
-datePublished: '2016-01-23T15:47:33.211Z'
-dateModified: '2016-01-23T15:42:07.108Z'
+datePublished: '2016-01-23T15:53:07.964Z'
+dateModified: '2016-01-23T15:52:12.582Z'
 sourcePath: _posts/2016-01-23-clemens-by-smihca.md
 published: true
 inFeed: true
