@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T12:13:03.341Z'
-dateModified: '2016-01-23T12:12:57.396Z'
+datePublished: '2016-01-23T12:29:30.311Z'
+dateModified: '2016-01-23T12:29:22.250Z'
 author: []
 title: ''
 sourcePath: _posts/2016-01-21-tenor-achim-schulz-was-born-and-raised-in-munich-germany.md
