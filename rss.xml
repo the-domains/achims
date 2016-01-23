@@ -4,7 +4,7 @@
         <description><![CDATA[Achim Schulz]]></description>
         <link>https://thegrid.ai/achims/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 17:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 17:09:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/achims/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello welcome, Bienvenus, Bienvenidos & Willkommen!]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/achims/fa823ca7-b949-419c-9d6d-7e38f93ddeab/index.html</link>
             <guid isPermaLink="false">fa823ca7-b949-419c-9d6d-7e38f93ddeab</guid>
             <pubDate>Sat, 23 Jan 2016 17:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.hyperion-records.co.uk/thumbs_150/034571280646.png">]]></description>
-            <link>https://thegrid.ai/achims/0636457b-4910-402f-80cf-d544eecd9910/index.html</link>
-            <guid isPermaLink="false">0636457b-4910-402f-80cf-d544eecd9910</guid>
-            <pubDate>Sat, 23 Jan 2016 17:03:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
