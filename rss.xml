@@ -4,7 +4,7 @@
         <description><![CDATA[Achim Schulz]]></description>
         <link>https://thegrid.ai/achims/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 17:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 17:04:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/achims/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello welcome, Bienvenus, Bienvenidos & Willkommen!]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/achims/achimschulz2yahooes/index.html</link>
             <guid isPermaLink="false">0301d8d7-8e03-498a-bd2d-557d69334123</guid>
             <pubDate>Sat, 23 Jan 2016 14:47:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.huelgasensemble.be/images/stories/cdcovers/cd%20le%20mystre%20de%20malheur%20me%20bat.jpg">]]></description>
+            <link>https://thegrid.ai/achims/fa823ca7-b949-419c-9d6d-7e38f93ddeab/index.html</link>
+            <guid isPermaLink="false">fa823ca7-b949-419c-9d6d-7e38f93ddeab</guid>
+            <pubDate>Sat, 23 Jan 2016 17:03:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.hyperion-records.co.uk/thumbs_150/034571280646.png">]]></description>
+            <link>https://thegrid.ai/achims/0636457b-4910-402f-80cf-d544eecd9910/index.html</link>
+            <guid isPermaLink="false">0636457b-4910-402f-80cf-d544eecd9910</guid>
+            <pubDate>Sat, 23 Jan 2016 17:03:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>https://soundcloud.com/achim-schulz/an-den-mond-op95-schumann-1</link>
             <guid isPermaLink="false">40cde6d1-d515-463d-95b0-9d8ccf14a8fe</guid>
             <pubDate>Sat, 23 Jan 2016 15:47:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schubert by smihca]]></title>
-            <description><![CDATA[<article><h1>Schubert by smihca</h1><p>concert live recording</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9909c3b8333fed2dac4196a7bd846847bccbb5a.jpg"></article>]]></description>
-            <link>https://soundcloud.com/achim-schulz/schubert</link>
-            <guid isPermaLink="false">89bc5ac9-712a-4cac-a729-37216a040793</guid>
-            <pubDate>Sat, 23 Jan 2016 15:47:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Huelgas Ensemble - Robert Wylkynson - Salve Regina À 9 Eton Choirbook by smihca]]></title>
-            <description><![CDATA[<article><h1>Huelgas Ensemble - Robert Wylkynson - Salve Regina À 9 Eton Choirbook by smihca</h1><p>Stream Huelgas Ensemble - Robert Wylkynson - Salve Regina À 9 Eton Choirbook by smihca from desktop or your mobile device</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6814b0c06f391282aff7ec3a86472592b82281e8.jpg"></article>]]></description>
-            <link>https://soundcloud.com/achim-schulz/artista-desconocido-robert-wylkynson-salve-regina-a-9</link>
-            <guid isPermaLink="false">c4009aaa-cc7c-40cc-ae34-ef7c87f7818a</guid>
-            <pubDate>Sat, 23 Jan 2016 15:46:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
