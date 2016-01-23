@@ -4,7 +4,7 @@
         <description><![CDATA[Achim Schulz]]></description>
         <link>https://thegrid.ai/achims/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 23:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 08:30:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/achims/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Achim Schulz, Tenor]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/achims/e91c8450-0b42-4ff1-b1a9-be0eb642eb21/index.html</link>
             <guid isPermaLink="false">e91c8450-0b42-4ff1-b1a9-be0eb642eb21</guid>
             <pubDate>Thu, 21 Jan 2016 12:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/achims/d068f308-8597-4d93-a869-76b94a8636ce/index.html</link>
+            <guid isPermaLink="false">d068f308-8597-4d93-a869-76b94a8636ce</guid>
+            <pubDate>Sat, 23 Jan 2016 08:30:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/achims/7edd41fc-2f50-424d-b7f4-148121779840/index.html</link>
             <guid isPermaLink="false">7edd41fc-2f50-424d-b7f4-148121779840</guid>
             <pubDate>Fri, 22 Jan 2016 11:30:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62b5c4c1-9ac8-4893-8ec4-3f695a32f1a8.JPG">]]></description>
-            <link>https://thegrid.ai/achims/0d976a8e-5c0e-49a3-b756-f8f728bbb1b7/index.html</link>
-            <guid isPermaLink="false">0d976a8e-5c0e-49a3-b756-f8f728bbb1b7</guid>
-            <pubDate>Fri, 22 Jan 2016 12:16:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
