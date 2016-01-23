@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T14:24:30.134Z'
-dateModified: '2016-01-23T14:24:22.382Z'
+datePublished: '2016-01-23T14:43:49.301Z'
+dateModified: '2016-01-23T14:43:38.690Z'
 title: 'Hello welcome, Bienvenus, Bienvenidos & Willkommen!'
 author: []
 sourcePath: _posts/2016-01-23-achimschulz2yahooes.md
