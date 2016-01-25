@@ -24,8 +24,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/achim-schulz/helas-soupirs'
 title: Helas Soupirs by smihca
-datePublished: '2016-01-25T18:58:12.627Z'
-dateModified: '2016-01-25T18:57:02.164Z'
+datePublished: '2016-01-25T19:12:29.368Z'
+dateModified: '2016-01-25T19:11:15.642Z'
 sourcePath: _posts/2016-01-25-helas-soupirs-by-smihca.md
 published: true
 inFeed: true
