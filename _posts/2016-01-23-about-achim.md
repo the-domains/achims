@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T14:41:27.784Z'
-dateModified: '2016-01-23T14:41:07.733Z'
+datePublished: '2016-01-25T22:48:40.484Z'
+dateModified: '2016-01-25T22:48:37.023Z'
 title: about achim
 author: []
+sourcePath: _posts/2016-01-23-about-achim.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-about-achim.md
-published: true
 url: about-achim/index.html
 _type: Article
 
