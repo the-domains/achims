@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T19:34:48.340Z'
-dateModified: '2016-01-26T19:34:44.233Z'
+datePublished: '2016-01-26T20:00:12.852Z'
+dateModified: '2016-01-26T20:00:09.088Z'
 title: about achim
 author: []
 sourcePath: _posts/2016-01-23-about-achim.md
@@ -34,7 +34,9 @@ Der Oper widmet sich Achim gelegentlich, und so war er in Projekten etwa als Erz
 
 Nach zehnjähriger intensiver musikalischer Aufbauarbeit und Durchführung von Konzertzyklen sowie Kursen für Historische Aufführungspraxis in Alicante/Spanien, lebt Achim momentan in Paris/Frankreich und widmet sich nun seit einigen Jahren insbesondere dem Ensemblesingen in der Renaissance.
 
-Er ist Mitglied des 'Huelgas Ensemble' (Paul Van Nevel) sowie des Ensembles 'Cinquecento Renaissance Vokal' (Wien). Ausserdem leitet er sein eigenes 'Ensemble Troparion'. Achim ist begeisterter_Lehrer_und unterrichtet auf Meisterkursen Sologesang, oder in Form von Workshops Ensemblesingen, oder privat bei sich zu Hause.  Ebenfalls kann man Achim als_Dirigent_für Chorprojekte oder_Ensembleleiter_engagieren: [**Contact**][2]
+Er ist Mitglied des '[Huelgas Ensemble][0]' (Paul Van Nevel), sowie des 5 köpfigen Männer-Ensembles '[Cinquecento Renaissance Vokal][1]' (Wien). Ausserdem leitet er sein eigenes 'Ensemble Troparion'. 
+
+Achim ist begeisterter _Lehrer _und unterrichtet auf Meisterkursen Sologesang, sowie in Form von Workshops Ensemblesingen, oder Sologesang privat bei sich zu Hause.  Ebenfalls kann man Achim als _Dirigent _für Chorprojekte oder als _Ensembleleiter _engagieren: [**Contact**][2]
 
 [0]: http://www.huelgasensemble.be/
 [1]: http://www.ensemblecinquecento.com/
