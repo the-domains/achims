@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Harpsichordist Organist
-datePublished: '2016-01-26T13:04:44.905Z'
-dateModified: '2016-01-26T13:04:33.292Z'
+datePublished: '2016-01-26T13:11:15.238Z'
+dateModified: '2016-01-26T13:11:08.644Z'
 title: Marc Meisel
 author: []
+sourcePath: _posts/2016-01-26-marc-meisel.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-marc-meisel.md
-published: true
 url: marc-meisel/index.html
-_type: Blurb
+_type: Article
 
 ---
 Marc Meisel 
