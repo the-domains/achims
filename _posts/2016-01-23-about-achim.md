@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T19:11:08.489Z'
-dateModified: '2016-01-26T19:11:02.877Z'
+datePublished: '2016-01-26T19:15:25.558Z'
+dateModified: '2016-01-26T19:15:22.426Z'
 title: about achim
 author: []
 sourcePath: _posts/2016-01-23-about-achim.md
@@ -31,8 +31,9 @@ Er widmet sich zuerst vor allem als Solist ausgiebig dem Konzert, etwa als Evang
 
 Der Oper widmet sich Achim gelegentlich, und so war er in Projekten etwa als Erzähler "Male Choir" in Brittens Lucretia, oder als Erzähler "Tirsis" in Da Gagliano's Daphne, und in der Rolle als "Cephale" von Elisabeth de la Guerre usw. zu hören.
 
-Nach zehnjähriger intensiver musikalischer Aufbauarbeit und Durchführung von Konzertzyklen sowie Kursen für Historische Aufführungspraxis in Alicante/Spanien, lebt Achim momentan in Paris/Frankreich und widmet sich nun seit einigen Jahren insbesondere dem Ensemblesingen in der Renaissance.  
-Er ist Mitglied des 'Huelgas Ensemble' (Paul Van Nevel) sowie des Ensembles 'Cinquecento Renaissance Vokal' (Wien). Ausserdem leitet er sein eigenes 'Ensemble Troparion'. Achim ist begeisterter Lehrer und unterrichtet auf Meisterkursen Sologesang, oder in Form von Workshops Ensemblesingen, oder privat bei sich zu Hause. [**Contact**][2]
+Nach zehnjähriger intensiver musikalischer Aufbauarbeit und Durchführung von Konzertzyklen sowie Kursen für Historische Aufführungspraxis in Alicante/Spanien, lebt Achim momentan in Paris/Frankreich und widmet sich nun seit einigen Jahren insbesondere dem Ensemblesingen in der Renaissance.
+
+Er ist Mitglied des 'Huelgas Ensemble' (Paul Van Nevel) sowie des Ensembles 'Cinquecento Renaissance Vokal' (Wien). Ausserdem leitet er sein eigenes 'Ensemble Troparion'. Achim ist begeisterter _Lehrer_ und unterrichtet auf Meisterkursen Sologesang, oder in Form von Workshops Ensemblesingen, oder privat bei sich zu Hause.  Ebenfalls kann man Achim als _Dirigent_ für Chorprojekte oder _Ensembleleiter_ engagieren: [**Contact**][2]
 
 [0]: http://www.huelgasensemble.be/
 [1]: http://www.ensemblecinquecento.com/
