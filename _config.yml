@@ -1,20 +1,8 @@
-title: Achim Schulz
-cta:
-  domain: null
-  version: null
-  bucket: null
-layout_spectrum: 0.65918
-favicon: null
 name: achimschulz
-purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.65918
+typography_spectrum: 0.83916
+title: Achim Schulz
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0
-  saturation: 0.6875
   brandColors:
     - '#000000'
     - '#575238'
     - '#b0a579'
     - '#2c2e22'
     - '#cdceba'
+  brandStrength: 0
   lightness: 0.625
+  saturation: 0.6875
   rhythmicContrast: 0.75
-typography_spectrum: 0.9283305
+purpose: []
