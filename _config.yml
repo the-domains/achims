@@ -1,16 +1,16 @@
 title: Achim Schulz
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 layout_spectrum: 0.65918
 favicon: null
 name: achimschulz
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -38,4 +38,4 @@ color:
     - '#cdceba'
   lightness: 0.625
   rhythmicContrast: 0.75
-typography_spectrum: 0.07504216
+typography_spectrum: 0.9283305
