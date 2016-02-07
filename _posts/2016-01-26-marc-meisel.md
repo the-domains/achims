@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Harpsichordist Organist
-datePublished: '2016-02-07T13:42:27.934Z'
-dateModified: '2016-02-07T13:42:17.989Z'
+datePublished: '2016-02-07T14:27:42.824Z'
+dateModified: '2016-02-07T14:27:34.987Z'
 title: Marc Meisel
 author: []
 sourcePath: _posts/2016-01-26-marc-meisel.md
@@ -28,7 +28,7 @@ Organist & Harpsichordist
 
 [Mischelikonzerte Reinach/CH][0]
 
-La Grande Sonade
+Ensemble 'La Grande Sonade'
 
 Leonhardsgraben 38 - 4051 Basel CH
 
@@ -37,10 +37,8 @@ Leonhardsgraben 38 - 4051 Basel CH
 
 ****
 
-**La Grande Sonade**
-
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6211f257-ced7-408d-bb4b-22b107f4bd9c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c3c4409039a2328b7d95a4b578baa80437c45db.jpg)
 
 [0]: http://www.ref.ch/reinach/default/index/event/def_id/119441/k/02cef40fe0a332ff8bd0e3276ef9e206
 [1]: mailto:marcmeisel@gmail.com
