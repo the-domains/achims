@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T13:31:50.651Z'
-dateModified: '2016-02-07T13:31:46.224Z'
+datePublished: '2016-02-07T14:24:20.591Z'
+dateModified: '2016-02-07T14:24:04.515Z'
 title: about achim
 author: []
 sourcePath: _posts/2016-01-23-about-achim.md
@@ -24,6 +24,8 @@ _type: Article
 ---
 Tenor Achim Schulz was raised in South of Germany. Having completed studies in Church Music, Organ, Cembalo and Choral Conducting he then went on to study solo tenor voice with Professor Kurt Widmer and Frau Burga Schwarzbach at the Schola Cantorum Basiliensis and the Konservatorium/Hochschule der Musikakademie in Basel (Switzerland). Achim achieved distinctions in both teaching and concert diplomas for solo voice before continuing his studies with Hans Hotter and Dietrich Fischer-Dieskau. His career as a soloist started with a focus on Bach's Passions as Evangelist, and solo song. His occasional opera appearances have included "Male Choir" in Britten's Lucretia, the narrator "Tirsis" in Da Gagliano's Daphne, and in the lead -role of Elisabeth de la Guerre's Cephale. After 10 years of intense musical preparation and the realization of many concert cycles and courses for historical performance practice in Alicante (Spain), _Achim now lives in Paris (France)_ and has, for the last few years, dedicated his time to ensemble singing of Renaissance music.   He is a member of the "[**Huelgas Ensemble**][0]"  and "[**Ensemble Cinquecento**][1]". Achim also directs his own group, "Ensemble Troparion".Achim has a vast **teaching** experience and is disposed to give **Masterclasses** for Solosinging and**workshops** for ensemble singing. You can also contact him if you wish to hire Achim as a particular **teacher** or as a **conductor** for a choir or ensemble project.  **[contact][2]**
 
+****
+
 **Achim Schulz** ist in München (Deutschland) aufgewachsen. Er schliesst seine Studien für Hauptamtliche Kirchenmusik sowie Orgel, Cembalo und Chorleitung erfolgreich mit Diplomen ab, und beginnt dann als Tenor sein Sologesangs Studium an der Schola Cantorum Basiliensis sowie dem Konservatorium/Hochschule der Musikakademie in Basel (Schweiz) bei Professor Kurt Widmer und Frau Burga Schwarzbach.
 
 Achim absolviert seine Sologesangsstudien mit dem Lehrdiplom und dem Konzertdiplom mit Auszeichnung und setzt seine Studien weiterführend bei Hans Hotter und Dietrich Fischer-Dieskau fort.  
@@ -36,12 +38,8 @@ Nach zehnjähriger intensiver musikalischer Aufbauarbeit und Durchführung von K
 Er ist Mitglied des '[Huelgas Ensemble][0]' (Paul Van Nevel), sowie des 5 köpfigen Männer-Ensembles '[Cinquecento Renaissance Vokal][1]' (Wien). Ausserdem leitet er sein eigenes 'Ensemble Troparion'. 
 
 Achim ist begeisterter _Lehrer _und unterrichtet auf Meisterkursen Sologesang, sowie in Form von Workshops Ensemblesingen, oder Sologesang privat bei sich zu Hause.  Ebenfalls kann man Achim als _Dirigent _für Chorprojekte oder als _Ensembleleiter _engagieren: **[Contact][2]**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a00a2dd-fadb-46a3-9fbd-d7c2d8d3c942.jpg)
-
-A vegan glutenfree (refined-)sugarfree man who lives in company with his husband and a cat. Practicing every day [_dynamic yoga_][3] ([_www.redearthcentre.com_][4]) and somatic meditation, lives in Paris. Musician. Is fascinated by the macrobiotic way of living. Is seeing the need of permaculture. Likes Krishnamurti's talks. Doesn't like dogma. Likes the playing of Gustav Leonhardt and the singing of Dietrich Fischer-Dieskau, James Bowman and Janet Baker. Discovered recently the delicious taste of a yellow Chinese tea 'Aiguille d'argent'. Doesn't use Facebook anymore but is into drawing instead. Works (and teaches) with Burga Schwarzbach's Bodydisposition for Singers (and not singers) and is amazed by the I Ching.  Motto: 'effortless effort'.   
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/658c63a8501882e046a896938e8aa212e0cd7d09.jpg)
 
 [0]: http://www.huelgasensemble.be/
 [1]: http://www.ensemblecinquecento.com/
 [2]: mailto:achimschulz2@yahoo.es
-[3]: http://www.dynamicyoga.com/
-[4]: http://www.redearthcentre.com/
