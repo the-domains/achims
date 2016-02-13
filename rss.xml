@@ -4,7 +4,7 @@
         <description><![CDATA[Achim Schulz]]></description>
         <link>http://achimschulz.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 23:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 23:26:00 GMT</lastBuildDate>
         <atom:link href="http://achimschulz.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ensemble]]></title>
@@ -18,7 +18,14 @@
             <description><![CDATA[<article><h1>Hello welcome, Bienvenus, Bienvenidos & Willkommen!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee538b2e8ed2f23fe7952610444a0086255c6866.jpg"></article>]]></description>
             <link>http://achimschulz.net/achimschulz2yahooes/index.html</link>
             <guid isPermaLink="false">0301d8d7-8e03-498a-bd2d-557d69334123</guid>
-            <pubDate>Tue, 26 Jan 2016 19:27:52 GMT</pubDate>
+            <pubDate>Sat, 13 Feb 2016 23:24:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Girolamo Frescobaldi - Sonetto spirituale "Maddalena a la croce" by Ensemble Troparion]]></title>
+            <description><![CDATA[<article><h1>Girolamo Frescobaldi - Sonetto spirituale "Maddalena a la croce" by Ensemble Troparion</h1><p>Stream Girolamo Frescobaldi - Sonetto spirituale "Maddalena a la croce" by Ensemble Troparion from desktop or your mobile device</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5579e38d563ef78980ab31f44b56ef12c63b859e.png"></article>]]></description>
+            <link>https://soundcloud.com/ensemble-troparion/girolamo-frescobaldi-sonetto</link>
+            <guid isPermaLink="false">139816b8-5316-4003-b2a5-543076fc293d</guid>
+            <pubDate>Sat, 13 Feb 2016 23:10:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[wenn meine Grillen schwirren by smihca]]></title>
@@ -68,13 +75,6 @@
             <link>http://achimschulz.net/about-achim/index.html</link>
             <guid isPermaLink="false">1d182f3b-5baf-48a6-b859-f38b5eceecba</guid>
             <pubDate>Sun, 07 Feb 2016 14:24:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Links]]></title>
-            <description><![CDATA[<article><h1>Links</h1><p>Sergio Teodosio Yoga</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fa137d2dbd2eb8a210780f681061f1134375862.jpg"></article>]]></description>
-            <link>http://achimschulz.net/7cd94f77-74d9-4034-b18e-e0798539514b/index.html</link>
-            <guid isPermaLink="false">7cd94f77-74d9-4034-b18e-e0798539514b</guid>
-            <pubDate>Tue, 09 Feb 2016 21:09:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
