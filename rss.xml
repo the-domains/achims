@@ -4,7 +4,7 @@
         <description><![CDATA[Achim Schulz]]></description>
         <link>http://achimschulz.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 20:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 20:51:51 GMT</lastBuildDate>
         <atom:link href="http://achimschulz.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ensemble]]></title>
@@ -19,6 +19,13 @@
             <link>http://achimschulz.net/achimschulz2yahooes/index.html</link>
             <guid isPermaLink="false">0301d8d7-8e03-498a-bd2d-557d69334123</guid>
             <pubDate>Tue, 26 Jan 2016 19:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[schumann liederkreis op39/4 by smihca]]></title>
+            <description><![CDATA[<article><h1>schumann liederkreis op39/4 by smihca</h1><p>live recording</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c02b34eef40fd349e76ecef3c45d828532c4942.jpg"></article>]]></description>
+            <link>https://soundcloud.com/achim-schulz/schumann-liederkreis-op394</link>
+            <guid isPermaLink="false">baecd05d-96ed-4c51-9b9a-4f3d23be7a05</guid>
+            <pubDate>Sat, 13 Feb 2016 20:44:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[lachen und weinen by smihca]]></title>
@@ -68,13 +75,6 @@
             <link>http://achimschulz.net/ebb72e71-efdd-4f94-a22b-120b5aa02ca0/index.html</link>
             <guid isPermaLink="false">ebb72e71-efdd-4f94-a22b-120b5aa02ca0</guid>
             <pubDate>Mon, 25 Jan 2016 14:40:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9acc43f-f383-4283-a9eb-fe0c9c3bf4ac.jpg">]]></description>
-            <link>http://achimschulz.net/0a2c80b5-b2cb-463f-895b-e68579a8a93f/index.html</link>
-            <guid isPermaLink="false">0a2c80b5-b2cb-463f-895b-e68579a8a93f</guid>
-            <pubDate>Sun, 07 Feb 2016 14:54:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
