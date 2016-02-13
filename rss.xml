@@ -4,7 +4,7 @@
         <description><![CDATA[Achim Schulz]]></description>
         <link>http://achimschulz.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 20:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 20:52:05 GMT</lastBuildDate>
         <atom:link href="http://achimschulz.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ensemble]]></title>
@@ -19,6 +19,13 @@
             <link>http://achimschulz.net/achimschulz2yahooes/index.html</link>
             <guid isPermaLink="false">0301d8d7-8e03-498a-bd2d-557d69334123</guid>
             <pubDate>Tue, 26 Jan 2016 19:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[schumann liederkreis op39/9 by smihca]]></title>
+            <description><![CDATA[<article><h1>schumann liederkreis op39/9 by smihca</h1><p>live recording</p></article>]]></description>
+            <link>https://soundcloud.com/achim-schulz/schumann-liederkreis-op399</link>
+            <guid isPermaLink="false">46b88752-4557-42b7-abd5-43207187d234</guid>
+            <pubDate>Sat, 13 Feb 2016 20:47:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[schumann liederkreis op39/4 by smihca]]></title>
@@ -68,13 +75,6 @@
             <link>http://achimschulz.net/f44ac075-61c1-4f13-927d-1144b45067e1/index.html</link>
             <guid isPermaLink="false">f44ac075-61c1-4f13-927d-1144b45067e1</guid>
             <pubDate>Sun, 07 Feb 2016 14:46:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8a9654c-488f-4b06-8959-dfa8c87d24e9.jpg">]]></description>
-            <link>http://achimschulz.net/ebb72e71-efdd-4f94-a22b-120b5aa02ca0/index.html</link>
-            <guid isPermaLink="false">ebb72e71-efdd-4f94-a22b-120b5aa02ca0</guid>
-            <pubDate>Mon, 25 Jan 2016 14:40:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
