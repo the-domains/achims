@@ -4,7 +4,7 @@
         <description><![CDATA[Achim Schulz]]></description>
         <link>http://achimschulz.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 13:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 20:51:38 GMT</lastBuildDate>
         <atom:link href="http://achimschulz.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ensemble]]></title>
@@ -19,6 +19,13 @@
             <link>http://achimschulz.net/achimschulz2yahooes/index.html</link>
             <guid isPermaLink="false">0301d8d7-8e03-498a-bd2d-557d69334123</guid>
             <pubDate>Tue, 26 Jan 2016 19:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[schubert lied by smihca]]></title>
+            <description><![CDATA[<article><h1>schubert lied by smihca</h1><p>live concert</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd848dc581c301854796d0dfb2133101e2a27dd8.jpg"></article>]]></description>
+            <link>https://soundcloud.com/achim-schulz/schubert-lied</link>
+            <guid isPermaLink="false">c5482578-f26b-457f-86e6-c4482fb650fd</guid>
+            <pubDate>Sat, 13 Feb 2016 20:43:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://soundcloud.com/achim-schulz/o-rex-fridrice-brassart</link>
             <guid isPermaLink="false">07704ab0-da5c-49ed-86f9-b260ea403fa3</guid>
             <pubDate>Sat, 23 Jan 2016 18:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[contact]]></title>
-            <description><![CDATA[<article><h1>contact</h1><p>here</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31a9551e60ca1ca8c97b84f93bd18aefbee88599.jpg"></article>]]></description>
-            <link>http://achimschulz.net/contact/index.html</link>
-            <guid isPermaLink="false">d83e20a6-3e68-409b-9e96-9af572bc9020</guid>
-            <pubDate>Mon, 25 Jan 2016 22:46:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
