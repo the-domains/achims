@@ -4,7 +4,7 @@
         <description><![CDATA[Achim Schulz]]></description>
         <link>http://achimschulz.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 20:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 20:51:43 GMT</lastBuildDate>
         <atom:link href="http://achimschulz.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ensemble]]></title>
@@ -19,6 +19,13 @@
             <link>http://achimschulz.net/achimschulz2yahooes/index.html</link>
             <guid isPermaLink="false">0301d8d7-8e03-498a-bd2d-557d69334123</guid>
             <pubDate>Tue, 26 Jan 2016 19:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lachen und weinen by smihca]]></title>
+            <description><![CDATA[<article><h1>lachen und weinen by smihca</h1><p>live recording</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5db4c2f083fa55aa8720539656ea25b0756cb48b.jpg"></article>]]></description>
+            <link>https://soundcloud.com/achim-schulz/lachen-und-weinen</link>
+            <guid isPermaLink="false">0a215d4a-f792-447d-8e71-ae0273272952</guid>
+            <pubDate>Sat, 13 Feb 2016 20:44:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[schubert lied by smihca]]></title>
@@ -68,13 +75,6 @@
             <link>http://achimschulz.net/0a2c80b5-b2cb-463f-895b-e68579a8a93f/index.html</link>
             <guid isPermaLink="false">0a2c80b5-b2cb-463f-895b-e68579a8a93f</guid>
             <pubDate>Sun, 07 Feb 2016 14:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[O Rex Fridrice Brassart by smihca]]></title>
-            <description><![CDATA[<article><h1>O Rex Fridrice Brassart by smihca</h1><p>Ensemble Cinquecento</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db21431d9e72fcc1956102bb6b83f107382dbf4c.jpg"></article>]]></description>
-            <link>https://soundcloud.com/achim-schulz/o-rex-fridrice-brassart</link>
-            <guid isPermaLink="false">07704ab0-da5c-49ed-86f9-b260ea403fa3</guid>
-            <pubDate>Sat, 23 Jan 2016 18:31:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
