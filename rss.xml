@@ -4,7 +4,7 @@
         <description><![CDATA[Achim Schulz]]></description>
         <link>http://achimschulz.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 20:52:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 23:08:16 GMT</lastBuildDate>
         <atom:link href="http://achimschulz.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ensemble]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Tue, 26 Jan 2016 19:27:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[wenn meine Grillen schwirren by smihca]]></title>
+            <description><![CDATA[<article><h1>wenn meine Grillen schwirren by smihca</h1><p>live recording</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c26c2184bfc80934feb0d1f1570c1918a19d852d.jpg"></article>]]></description>
+            <link>https://soundcloud.com/achim-schulz/wenn-meine-grillen-schwirren</link>
+            <guid isPermaLink="false">ff75d61c-d28a-46b3-8932-5d0432a9da61</guid>
+            <pubDate>Sat, 13 Feb 2016 23:07:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[schumann liederkreis op39/9 by smihca]]></title>
-            <description><![CDATA[<article><h1>schumann liederkreis op39/9 by smihca</h1><p>live recording</p></article>]]></description>
+            <description><![CDATA[<article><h1>schumann liederkreis op39/9 by smihca</h1><p>live recording</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89512fe89bb4426ec097076f78ed78aae52e64c3.jpg"></article>]]></description>
             <link>https://soundcloud.com/achim-schulz/schumann-liederkreis-op399</link>
             <guid isPermaLink="false">46b88752-4557-42b7-abd5-43207187d234</guid>
             <pubDate>Sat, 13 Feb 2016 20:47:35 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://achimschulz.net/7cd94f77-74d9-4034-b18e-e0798539514b/index.html</link>
             <guid isPermaLink="false">7cd94f77-74d9-4034-b18e-e0798539514b</guid>
             <pubDate>Tue, 09 Feb 2016 21:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ensemble Cinquecento Wien]]></title>
-            <description><![CDATA[<article><h1>Ensemble Cinquecento Wien</h1><p>Cinquecento </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d1a2bfc2c191cae7c01096139a6a42d858acb5f.jpg"></article>]]></description>
-            <link>http://achimschulz.net/f44ac075-61c1-4f13-927d-1144b45067e1/index.html</link>
-            <guid isPermaLink="false">f44ac075-61c1-4f13-927d-1144b45067e1</guid>
-            <pubDate>Sun, 07 Feb 2016 14:46:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
