@@ -24,8 +24,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/ensemble-troparion/girolamo-frescobaldi-sonetto'
 title: 'Girolamo Frescobaldi - Sonetto spirituale "Maddalena a la croce" by Ensemble Troparion'
-datePublished: '2016-02-13T12:42:44.612Z'
-dateModified: '2016-02-13T12:38:02.578Z'
+datePublished: '2016-02-13T23:10:24.513Z'
+dateModified: '2016-02-13T23:08:00.327Z'
 sourcePath: _posts/2016-02-13-girolamo-frescobaldi-sonetto-spirituale-maddalena-a-la-cr.md
 published: true
 inFeed: true
