@@ -24,8 +24,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/ensemble-troparion/mario-capuana-o-quam-suavis'
 title: Mario Capuana - O quam suavis by Ensemble Troparion
-datePublished: '2016-02-14T20:25:43.738Z'
-dateModified: '2016-02-14T20:24:20.923Z'
+datePublished: '2016-02-14T22:58:15.004Z'
+dateModified: '2016-02-14T22:57:24.573Z'
 sourcePath: _posts/2016-02-14-mario-capuana-o-quam-suavis-by-ensemble-troparion.md
 published: true
 inFeed: true
