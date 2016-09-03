@@ -24,10 +24,10 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/achim-schulz/salve-regina-monteverdi'
 title: salve regina monteverdi by smihca
-datePublished: '2016-02-14T11:06:58.603Z'
-dateModified: '2016-02-14T11:06:26.748Z'
+datePublished: '2016-08-31T17:34:26.063Z'
+dateModified: '2016-08-31T17:09:50.327Z'
 sourcePath: _posts/2016-02-14-salve-regina-monteverdi-by-smihca.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
