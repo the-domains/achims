@@ -1,30 +1,20 @@
-typography_spectrum: 0.41934403660707176
-color:
-  brandStrength: 0.9363094407599419
-  lightness: 0.5062055934686214
-  saturation: 0.9546781769022346
-  rhythmicContrast: 0.7697293739765882
-  brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+title: achim schulz
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.08072591
+favicon: null
+name: achimschulz
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.7244277785066515
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-name: achimschulz
-cta:
-  domain: null
-  version: null
-  bucket: null
-favicon: null
 collections:
   - index:
       navigable: true
@@ -37,5 +27,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: achim schulz
-purpose: []
+color:
+  brandStrength: 0.9363094407599419
+  saturation: 0.9546781769022346
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  lightness: 0.5062055934686214
+  rhythmicContrast: 0.7697293739765882
+typography_spectrum: 0.4193440366070718
