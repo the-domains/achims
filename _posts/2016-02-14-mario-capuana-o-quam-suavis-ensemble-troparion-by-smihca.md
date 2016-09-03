@@ -10,7 +10,9 @@ publisher:
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
 keywords: []
-description: 'ensemble troparion, achim schulz direction sergio teodosio, alto achim schulz, tenor julian behr, theorbe silvia tecardi, viol'
+description: >-
+  ensemble troparion, achim schulz direction sergio teodosio, alto achim schulz,
+  tenor julian behr, theorbe silvia tecardi, viol
 app_links:
   - type: ios
     app_name: SoundCloud
@@ -22,12 +24,13 @@ app_links:
     package: com.soundcloud.android
   - url: 'soundcloud://sounds:247077235'
     type: android
-isBasedOnUrl: 'https://soundcloud.com/achim-schulz/mario-capuana-o-quam-suavis-ensemble-troparion'
+isBasedOnUrl: >-
+  https://soundcloud.com/achim-schulz/mario-capuana-o-quam-suavis-ensemble-troparion
 title: mario capuana o quam suavis ensemble troparion by smihca
-datePublished: '2016-02-14T23:20:32.115Z'
-dateModified: '2016-02-14T23:20:06.471Z'
+datePublished: '2016-08-31T17:33:50.367Z'
+dateModified: '2016-08-31T17:09:50.327Z'
 sourcePath: _posts/2016-02-14-mario-capuana-o-quam-suavis-ensemble-troparion-by-smihca.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
