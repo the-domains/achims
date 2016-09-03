@@ -1,16 +1,16 @@
 title: Achim Schulz
 cta:
-  domain: null
-  bucket: null
   version: null
-layout_spectrum: 0.5951189
+  bucket: null
+  domain: null
+layout_spectrum: 0.8854818
 favicon: null
 name: achimschulz
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -28,7 +28,7 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.7563238
+  brandStrength: 0.2647059
   lightness: 0.597622
   saturation: 0.5112641
   rhythmicContrast: 0.5951189
