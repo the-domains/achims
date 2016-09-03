@@ -4,7 +4,7 @@
         <description><![CDATA[Achim Schulz]]></description>
         <link>http://achimschulz.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 17:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 17:33:52 GMT</lastBuildDate>
         <atom:link href="http://achimschulz.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Arnold De LANTINS: Las, Pouray Je Mon Matire Celer by smihca]]></title>
@@ -12,6 +12,27 @@
             <link>https://soundcloud.com/achim-schulz/arnold-de-lantins-las-pouray-je-mon-matire-celer</link>
             <guid isPermaLink="false">c45c5bb2-b5ba-40a6-bec8-33484eed8be4</guid>
             <pubDate>Wed, 31 Aug 2016 17:28:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mario capuana o quam suavis ensemble troparion by smihca]]></title>
+            <description><![CDATA[<article><h1>mario capuana o quam suavis ensemble troparion by smihca</h1><p>ensemble troparion, achim schulz direction sergio teodosio, alto achim schulz, tenor julian behr, theorbe silvia tecardi, viol</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb5e29cbbb3e4a67636c1a33c140a39fe9b23017.jpg"></article>]]></description>
+            <link>https://soundcloud.com/achim-schulz/mario-capuana-o-quam-suavis-ensemble-troparion</link>
+            <guid isPermaLink="false">76a96473-c507-413b-9d60-1c2c3ca49bbc</guid>
+            <pubDate>Wed, 31 Aug 2016 17:33:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[about achim]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/658c63a8501882e046a896938e8aa212e0cd7d09.jpg" alt="" title="">]]></description>
+            <link>http://achimschulz.net/about-achim/index.html</link>
+            <guid isPermaLink="false">1d182f3b-5baf-48a6-b859-f38b5eceecba</guid>
+            <pubDate>Wed, 31 Aug 2016 17:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hello welcome, Bienvenus, Bienvenidos & Willkommen!]]></title>
+            <description><![CDATA[<article><h1>Hello welcome, Bienvenus, Bienvenidos & Willkommen!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9db8b583-0347-4273-a953-bf959ce92537.jpg"></article>]]></description>
+            <link>http://achimschulz.net/hello-welcome-bienvenus-bienvenidos-and-willkommen/index.html</link>
+            <guid isPermaLink="false">0301d8d7-8e03-498a-bd2d-557d69334123</guid>
+            <pubDate>Wed, 31 Aug 2016 17:30:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ensemble]]></title>
@@ -49,25 +70,11 @@
             <pubDate>Sun, 14 Feb 2016 23:25:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[mario capuana o quam suavis ensemble troparion by smihca]]></title>
-            <description><![CDATA[<article><h1>mario capuana o quam suavis ensemble troparion by smihca</h1><p>ensemble troparion, achim schulz direction sergio teodosio, alto achim schulz, tenor julian behr, theorbe silvia tecardi, viol</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb5e29cbbb3e4a67636c1a33c140a39fe9b23017.jpg"></article>]]></description>
-            <link>https://soundcloud.com/achim-schulz/mario-capuana-o-quam-suavis-ensemble-troparion</link>
-            <guid isPermaLink="false">76a96473-c507-413b-9d60-1c2c3ca49bbc</guid>
-            <pubDate>Sun, 14 Feb 2016 23:20:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[salve regina monteverdi by smihca]]></title>
             <description><![CDATA[<article><h1>salve regina monteverdi by smihca</h1><p>achim schulz julian behr concert recording</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dd4e70cd1a1f9d0da7cc887296825467b8ffb2c.jpg"></article>]]></description>
             <link>https://soundcloud.com/achim-schulz/salve-regina-monteverdi</link>
             <guid isPermaLink="false">41ab3498-a0d7-4236-8ba3-e74eb73c76b1</guid>
             <pubDate>Sun, 14 Feb 2016 11:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sonetto spirituale frescobaldi by smihca]]></title>
-            <description><![CDATA[<article><h1>sonetto spirituale frescobaldi by smihca</h1><p>achim schulz julian behr live recording</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e446a786bf70db644e0e1bce31e1f316a6cb35e6.jpg"></article>]]></description>
-            <link>https://soundcloud.com/achim-schulz/sonetto-spirituale-frescobaldi</link>
-            <guid isPermaLink="false">7da68ba6-704a-4e4f-994e-9670723baa8e</guid>
-            <pubDate>Sun, 14 Feb 2016 10:54:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
