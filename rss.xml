@@ -4,7 +4,7 @@
         <description><![CDATA[Achim Schulz]]></description>
         <link>http://achimschulz.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 17:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 17:36:54 GMT</lastBuildDate>
         <atom:link href="http://achimschulz.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello welcome, Bienvenus, Bienvenidos & Willkommen!]]></title>
@@ -35,6 +35,13 @@
             <pubDate>Wed, 31 Aug 2016 17:34:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9acc43f-f383-4283-a9eb-fe0c9c3bf4ac.jpg">]]></description>
+            <link>http://achimschulz.net/achim-ist-sanger-und-lebt-in-paris-er-arbeitet-als-musiker/index.html</link>
+            <guid isPermaLink="false">0a2c80b5-b2cb-463f-895b-e68579a8a93f</guid>
+            <pubDate>Wed, 31 Aug 2016 17:36:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[mario capuana o quam suavis ensemble troparion by smihca]]></title>
             <description><![CDATA[<article><h1>mario capuana o quam suavis ensemble troparion by smihca</h1><p>ensemble troparion, achim schulz direction sergio teodosio, alto achim schulz, tenor julian behr, theorbe silvia tecardi, viol</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb5e29cbbb3e4a67636c1a33c140a39fe9b23017.jpg"></article>]]></description>
             <link>https://soundcloud.com/achim-schulz/mario-capuana-o-quam-suavis-ensemble-troparion</link>
@@ -49,6 +56,13 @@
             <pubDate>Wed, 31 Aug 2016 17:33:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[contact]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c08ab42b-6717-4f68-9876-91c3beccd1c6.jpg">]]></description>
+            <link>http://achimschulz.net/contact/index.html</link>
+            <guid isPermaLink="false">d83e20a6-3e68-409b-9e96-9af572bc9020</guid>
+            <pubDate>Wed, 31 Aug 2016 17:36:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[salve regina monteverdi by smihca]]></title>
             <description><![CDATA[<article><h1>salve regina monteverdi by smihca</h1><p>achim schulz julian behr concert recording</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dd4e70cd1a1f9d0da7cc887296825467b8ffb2c.jpg"></article>]]></description>
             <link>https://soundcloud.com/achim-schulz/salve-regina-monteverdi</link>
@@ -61,20 +75,6 @@
             <link>https://soundcloud.com/achim-schulz/sonetto-spirituale-frescobaldi</link>
             <guid isPermaLink="false">7da68ba6-704a-4e4f-994e-9670723baa8e</guid>
             <pubDate>Wed, 31 Aug 2016 17:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1242caa2-ab34-4f14-88d5-fb70b1e6a997.jpg">]]></description>
-            <link>http://achimschulz.net/b22adc4c-952c-4a9a-a368-baf62d28f784/index.html</link>
-            <guid isPermaLink="false">b22adc4c-952c-4a9a-a368-baf62d28f784</guid>
-            <pubDate>Wed, 31 Aug 2016 17:34:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[wenn meine Grillen schwirren by smihca]]></title>
-            <description><![CDATA[<article><h1>wenn meine Grillen schwirren by smihca</h1><p>live recording</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df72dbb0c26954f7664f477f25333d478dca1529.jpg"></article>]]></description>
-            <link>https://soundcloud.com/achim-schulz/wenn-meine-grillen-schwirren</link>
-            <guid isPermaLink="false">aaecef02-94e7-47a0-99b1-d3568cd61572</guid>
-            <pubDate>Mon, 11 Jul 2016 15:45:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
