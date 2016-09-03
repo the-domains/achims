@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T17:30:10.391Z'
+datePublished: '2016-08-31T17:35:33.737Z'
 sourcePath: _posts/2016-01-23-achimschulz2yahooes.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-31T17:26:20.586Z'
+dateModified: '2016-08-31T17:35:23.339Z'
 title: 'Hello welcome, Bienvenus, Bienvenidos & Willkommen!'
 publisher: {}
 description: ''
