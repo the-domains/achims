@@ -1,9 +1,21 @@
+layout_spectrum: 0.7244277785066515
+typography_spectrum: 0.41934403660707176
+color:
+  brandStrength: 0.9363094407599419
+  lightness: 0.5062055934686214
+  saturation: 0.9546781769022346
+  rhythmicContrast: 0.7697293739765882
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
 title: Achim Schulz
 cta:
   domain: null
   version: null
   bucket: null
-layout_spectrum: 0.1871089
 favicon: null
 name: achimschulz
 purpose: []
@@ -27,15 +39,3 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.1921151
-  lightness: 0.597622
-  saturation: 0.5112641
-  rhythmicContrast: 0.5951189
-  brandColors:
-    - '#00213E'
-    - '#562F08'
-    - '#DC5E0C'
-    - '#284C6C'
-    - '#F9D08D'
-typography_spectrum: 0.39161
