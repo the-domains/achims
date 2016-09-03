@@ -10,7 +10,9 @@ publisher:
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
 keywords: []
-description: Stream Huelgas Ensemble - Robert Wylkynson - Salve Regina À 9 Eton Choirbook by smihca from desktop or your mobile device
+description: >-
+  Stream Huelgas Ensemble - Robert Wylkynson - Salve Regina À 9 Eton Choirbook
+  by smihca from desktop or your mobile device
 app_links:
   - type: ios
     app_name: SoundCloud
@@ -22,12 +24,15 @@ app_links:
     package: com.soundcloud.android
   - url: 'soundcloud://sounds:243057209'
     type: android
-isBasedOnUrl: 'https://soundcloud.com/achim-schulz/artista-desconocido-robert-wylkynson-salve-regina-a-9'
-title: Huelgas Ensemble - Robert Wylkynson - Salve Regina À 9 Eton Choirbook by smihca
-datePublished: '2016-01-23T15:46:58.596Z'
-dateModified: '2016-01-23T15:35:57.879Z'
+isBasedOnUrl: >-
+  https://soundcloud.com/achim-schulz/artista-desconocido-robert-wylkynson-salve-regina-a-9
+title: >-
+  Huelgas Ensemble - Robert Wylkynson - Salve Regina À 9 Eton Choirbook by
+  smihca
+datePublished: '2016-08-31T17:39:04.579Z'
+dateModified: '2016-08-31T17:09:50.327Z'
 sourcePath: _posts/2016-01-23-huelgas-ensemble-robert-wylkynson-salve-regina-a-9-eton.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
