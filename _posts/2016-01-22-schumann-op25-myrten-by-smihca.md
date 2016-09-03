@@ -24,10 +24,10 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/achim-schulz/schumann-op25-myrten'
 title: Schumann Op25 Myrten by smihca
-datePublished: '2016-01-22T12:35:49.182Z'
-dateModified: '2016-01-22T12:34:27.352Z'
+datePublished: '2016-08-31T17:37:34.610Z'
+dateModified: '2016-08-31T17:09:28.594Z'
 sourcePath: _posts/2016-01-22-schumann-op25-myrten-by-smihca.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
