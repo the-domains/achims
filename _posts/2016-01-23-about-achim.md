@@ -6,12 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T14:24:20.638Z'
-dateModified: '2016-02-07T14:24:04.515Z'
+datePublished: '2016-08-31T17:33:41.949Z'
+dateModified: '2016-08-31T17:08:17.385Z'
 title: about achim
 author: []
 sourcePath: _posts/2016-01-23-about-achim.md
-published: true
 authors: []
 publisher:
   name: null
