@@ -24,10 +24,10 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/achim-schulz/schubert'
 title: Schubert by smihca
-datePublished: '2016-01-23T15:47:13.191Z'
-dateModified: '2016-01-23T15:31:44.047Z'
+datePublished: '2016-08-31T17:38:05.214Z'
+dateModified: '2016-08-31T17:09:28.594Z'
 sourcePath: _posts/2016-01-23-schubert-by-smihca.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
