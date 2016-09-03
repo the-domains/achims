@@ -24,10 +24,10 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/achim-schulz/sonetto-spirituale-frescobaldi'
 title: sonetto spirituale frescobaldi by smihca
-datePublished: '2016-02-14T10:54:31.470Z'
-dateModified: '2016-02-14T10:53:32.990Z'
+datePublished: '2016-08-31T17:34:32.599Z'
+dateModified: '2016-08-31T17:09:50.327Z'
 sourcePath: _posts/2016-02-14-sonetto-spirituale-frescobaldi-by-smihca.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
