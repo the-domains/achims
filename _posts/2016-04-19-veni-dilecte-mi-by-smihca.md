@@ -10,7 +10,9 @@ publisher:
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
 keywords: []
-description: ensemble cinquecento wien terry wey achim schulz tore tom denys tim scott whitheley ulfried staber
+description: >-
+  ensemble cinquecento wien terry wey achim schulz tore tom denys tim scott
+  whitheley ulfried staber
 app_links:
   - type: ios
     namespace: ai
@@ -50,10 +52,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/achim-schulz/veni-dilecte-mi-1'
 title: Veni Dilecte Mi by smihca
-datePublished: '2016-04-19T16:34:28.043Z'
-dateModified: '2016-04-19T16:33:07.251Z'
+datePublished: '2016-08-31T17:38:17.708Z'
+dateModified: '2016-08-31T17:29:33.488Z'
 sourcePath: _posts/2016-04-19-veni-dilecte-mi-by-smihca.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
