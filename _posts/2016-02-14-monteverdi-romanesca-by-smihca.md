@@ -10,7 +10,9 @@ publisher:
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
 keywords: []
-description: 'ensemble troparion, achim schulz direction beatrice voellmy, sopran achim schulz, tenor rafael bonavita, theorbe silvia tecardi, viol live recording'
+description: >-
+  ensemble troparion, achim schulz direction beatrice voellmy, sopran achim
+  schulz, tenor rafael bonavita, theorbe silvia tecardi, viol live recording
 app_links:
   - type: ios
     app_name: SoundCloud
@@ -24,10 +26,10 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/achim-schulz/monteverdi-romanesca'
 title: Monteverdi romanesca by smihca
-datePublished: '2016-02-14T23:25:42.530Z'
-dateModified: '2016-02-14T23:25:06.631Z'
+datePublished: '2016-08-31T17:39:37.131Z'
+dateModified: '2016-08-31T17:09:50.327Z'
 sourcePath: _posts/2016-02-14-monteverdi-romanesca-by-smihca.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
