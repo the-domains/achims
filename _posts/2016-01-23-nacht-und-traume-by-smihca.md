@@ -24,10 +24,10 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/achim-schulz/nacht-und-traume'
 title: Nacht Und Träume by smihca
-datePublished: '2016-01-23T15:27:09.831Z'
-dateModified: '2016-01-23T15:25:18.492Z'
+datePublished: '2016-08-31T17:37:40.711Z'
+dateModified: '2016-08-31T17:09:28.594Z'
 sourcePath: _posts/2016-01-23-nacht-und-traume-by-smihca.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
