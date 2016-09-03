@@ -50,10 +50,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/achim-schulz/wenn-meine-grillen-schwirren'
 title: wenn meine Grillen schwirren by smihca
-datePublished: '2016-07-11T15:45:03.095Z'
-dateModified: '2016-04-19T16:36:46.632Z'
-starred: false
+datePublished: '2016-08-31T17:38:33.374Z'
+dateModified: '2016-08-31T17:29:33.488Z'
 sourcePath: _posts/2016-07-11-wenn-meine-grillen-schwirren-by-smihca.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
