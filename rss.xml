@@ -4,7 +4,7 @@
         <description><![CDATA[Achim Schulz]]></description>
         <link>http://achimschulz.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 17:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 17:38:36 GMT</lastBuildDate>
         <atom:link href="http://achimschulz.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello welcome, Bienvenus, Bienvenidos & Willkommen!]]></title>
@@ -35,20 +35,6 @@
             <pubDate>Wed, 31 Aug 2016 17:34:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Huelgas Ensemble - Robert Wylkynson - Salve Regina À 9 Eton Choirbook by smihca]]></title>
-            <description><![CDATA[<article><h1>Huelgas Ensemble - Robert Wylkynson - Salve Regina À 9 Eton Choirbook by smihca</h1><p>Stream Huelgas Ensemble - Robert Wylkynson - Salve Regina À 9 Eton Choirbook by smihca from desktop or your mobile device</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9be01779bc0e5640c834dc6ef4a08a7a19f123a1.jpg"></article>]]></description>
-            <link>https://soundcloud.com/achim-schulz/artista-desconocido-robert-wylkynson-salve-regina-a-9</link>
-            <guid isPermaLink="false">c4009aaa-cc7c-40cc-ae34-ef7c87f7818a</guid>
-            <pubDate>Wed, 31 Aug 2016 17:39:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monteverdi romanesca by smihca]]></title>
-            <description><![CDATA[<article><h1>Monteverdi romanesca by smihca</h1><p>ensemble troparion, achim schulz direction beatrice voellmy, sopran achim schulz, tenor rafael bonavita, theorbe silvia tecardi, viol live recording</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecb491814ec9f12945f597d667956715a420aef7.jpg"></article>]]></description>
-            <link>https://soundcloud.com/achim-schulz/monteverdi-romanesca</link>
-            <guid isPermaLink="false">d6338193-ad20-4741-93cb-6cf5c443c954</guid>
-            <pubDate>Wed, 31 Aug 2016 17:39:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9acc43f-f383-4283-a9eb-fe0c9c3bf4ac.jpg">]]></description>
             <link>http://achimschulz.net/achim-ist-sanger-und-lebt-in-paris-er-arbeitet-als-musiker/index.html</link>
@@ -75,6 +61,20 @@
             <link>http://achimschulz.net/contact/index.html</link>
             <guid isPermaLink="false">d83e20a6-3e68-409b-9e96-9af572bc9020</guid>
             <pubDate>Wed, 31 Aug 2016 17:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[salve regina monteverdi by smihca]]></title>
+            <description><![CDATA[<article><h1>salve regina monteverdi by smihca</h1><p>achim schulz julian behr concert recording</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dd4e70cd1a1f9d0da7cc887296825467b8ffb2c.jpg"></article>]]></description>
+            <link>https://soundcloud.com/achim-schulz/salve-regina-monteverdi</link>
+            <guid isPermaLink="false">41ab3498-a0d7-4236-8ba3-e74eb73c76b1</guid>
+            <pubDate>Wed, 31 Aug 2016 17:34:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sonetto spirituale frescobaldi by smihca]]></title>
+            <description><![CDATA[<article><h1>sonetto spirituale frescobaldi by smihca</h1><p>achim schulz julian behr live recording</p></article>]]></description>
+            <link>https://soundcloud.com/achim-schulz/sonetto-spirituale-frescobaldi</link>
+            <guid isPermaLink="false">7da68ba6-704a-4e4f-994e-9670723baa8e</guid>
+            <pubDate>Wed, 31 Aug 2016 17:34:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
